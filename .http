@@ -1,0 +1,8 @@
+POST http://localhost:4200/add-new
+Content-Type: application/json
+
+{
+    "stdName": "Thy Kiyo Thoumoung",
+    "stdRegno": "201900399",
+    "stdMarks": 42
+}
